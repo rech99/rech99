@@ -32,7 +32,7 @@ Leading the development of innovative solutions in the aerospace industry using 
 Ongoing exploration and practice with web development fundamentals:
 - **Web Development** - Frontend and full-stack learning
   - app-basic-html
-- **Portfolio** - [Portafolio](https://github.com/rech99/Portafolio)
+- **Portfolio** - [Portafolio](https://portafolio-rech99.vercel.app/)
 
 > Explore all my work in my [repositories](https://github.com/rech99?tab=repositories)
 
