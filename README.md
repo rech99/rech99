@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** and **Lead Develope
 
 ## 🚀 About Me
 
-- 💻 **Languages & Frameworks**: Python, Django, Django REST Framework, FastAPI, HTML, NextJS, React, Tailwind CSS
+- 💻 **Languages & Frameworks**: Python, Django, Django REST Framework, FastAPI, HTML, NextJS, React, Angular, Tailwind CSS
 - 🏗️ **Architecture & DevOps**: Docker, microservices, REST APIs, database design
 - 👔 **Role**: Fullstack Developer
 - 🎯 **Specialties**:
@@ -41,6 +41,7 @@ Ongoing exploration and practice with web development fundamentals:
 | Area | Technologies |
 |------|--------------|
 | **Backend** | Python, Django, Django REST Framework, FastAPI |
+| **Frontend** | Angular, React, NextJS |
 | **DevOps** | Docker, containerization |
 | **Languages** | Python, HTML |
 | **Concepts** | REST APIs, Microservices, Architecture, Design Patterns |
