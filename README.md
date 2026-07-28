@@ -4,9 +4,9 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** and **Lead Develope
 
 ## 🚀 About Me
 
-- 💻 **Languages & Frameworks**: Python, Django, Django REST Framework, FastAPI, HTML
+- 💻 **Languages & Frameworks**: Python, Django, Django REST Framework, FastAPI, HTML, NextJS, React, Tailwind CSS
 - 🏗️ **Architecture & DevOps**: Docker, microservices, REST APIs, database design
-- 👔 **Role**: Lead Developer at MediaAérea
+- 👔 **Role**: Fullstack Developer
 - 🎯 **Specialties**:
   - Backend development with Python
   - API design and development (Django REST, FastAPI)
