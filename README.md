@@ -53,16 +53,6 @@ Ongoing exploration and practice with web development fundamentals:
 - **Followers**: 3
 - **Following**: 1
 
-## 🎓 Skills Highlight
-
-| Area | Technologies |
-|------|--------------|
-| **Backend** | Django, Django REST Framework, FastAPI, Python |
-| **DevOps** | Docker, containerization |
-| **Frontend** | HTML, web development |
-| **Languages** | Python, HTML |
-| **Practices** | Clean code, API design, architecture, team leadership |
-
 ## 📫 Let's Connect!
 
 Feel free to explore my repositories and reach out if you'd like to collaborate, discuss architecture decisions, or talk about Python development best practices!
